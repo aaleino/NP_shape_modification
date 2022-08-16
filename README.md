@@ -2,7 +2,7 @@
 
 Relevant source code for manuscript "Insights into nanoparticle shape transformation by energetic ions using atomistic simulations"
 
-Note: the scripts need to be adapted to the computing environment and are minimally documented.
+Note: the scripts need to be adapted to the computing environment, minimally documented and under construction.
 
 
 |Directory name|Description|
